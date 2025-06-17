@@ -3,3 +3,4 @@ pydub
 librosa
 matplotlib
 numpy
+torch
